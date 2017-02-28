@@ -7,4 +7,6 @@ Testing rebase workflow.
 
 Making changes for devel and feature #1. Making correct changes for feature #4. Huzzah!
 
+Another commit for good measure.
+
 Make feature changes.
