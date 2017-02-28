@@ -6,3 +6,5 @@ Testing rebase workflow.
 4. Squash commits
 
 Making changes for devel.
+
+These changes are necessary only for the deploy branch.
